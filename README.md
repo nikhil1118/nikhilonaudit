@@ -1,10 +1,13 @@
 # nikhilonaudit
-I am an independent smart contract security researcher specializing in Solidity audits. Over the past 1.5year of my security career as an independent researcher, I have participated in and audited multiple DeFi protocols, including lending, CDPs, stablecoins, RWAs, DAOs, AMMs, token voting systems, money markets, DEXs, staking/vesting contracts, and tokenomics modules etc
----
+I am an independent smart contract security researcher specializing in Solidity audits. Over the past 1.5 years of my security career as an independent researcher, I have participated in and audited multiple DeFi protocols, including lending, CDPs, stablecoins, RWAs, DAOs, AMMs, token voting systems, money markets, DEXs, staking and vesting contracts, and tokenomics modules.
 
-## ✨ Highlights
-secured 35th rank and earned 652$ in the raac audit competetion (highest number of submissions ever in a audit contest) held on codehawks 
-found 2 bugs in a live deployed codebase liquity.found 20+ high/medium severity bugs 
+
+## Highlights
+- 3 Top-15 finishes
+- 2 bugs found and responsibly reported in live production protocols
+- 25+ vulnerabilities identified
+- 1.5 years of experience
+
 
 ## competetive audits
 
@@ -19,3 +22,4 @@ found 2 bugs in a live deployed codebase liquity.found 20+ high/medium severity 
 | [Symmio – Staking & Vesting](https://audits.sherlock.xyz/contests/838) | 1M | Staking, Vesting, Tokenomics | 15 | EVM / Solidity |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682) | 1M | On-chain Bonds | – | EVM / Solidity |
 | [PinLink – RWA Tokenized DePIN Marketplace](https://audits.sherlock.xyz/contests/852) | – | RWA, DePIN, Marketplace | 59 | EVM / Solidity |
+| [Mento-V3 (Mento Labs)](https://cantina.xyz/competitions/fe8e03b1-f8db-4698-8a21-44b3a862e434/overview) | 1L | Decentralized stablecoin / FX & CDP protocol | – | EVM / Solidity |
